@@ -20,7 +20,7 @@
         "display5Font": "Noto Sans KR",
         "display5Size": "2",
         "display7Font": "Rubik",
-        "display7Size": 1,
+        "display7Size": "1.2",
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
